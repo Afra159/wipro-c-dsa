@@ -1,0 +1,18 @@
+ASSIGNMENT DAY 2
+
+Problem 1
+
+Create a detailed pseudocode for the program that takes a number as input, calculates the square if it's even, or the cube if it's odd,
+and then outputs the result. We'll incorporate conditional and looping constructors.
+
+Pseudocode:
+
+1. Enter the input value
+2. Take the input value as x
+3. for (i=0; i<=n; i++)
+3. If i % 2 == 0 then print x*x (It prints the square)
+4. Else print x*x*x (It prints the cube)
+
+
+
+
